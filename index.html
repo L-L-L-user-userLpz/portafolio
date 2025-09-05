@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- 🔍 SEO -->
+  <meta name="description" content="Portafolio Profesional de desarrollador de software enfocado en backend, experiencia en frontend, desarrollo web, otros.">   
+  
+  <!-- Schema.org markup para Google -->
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Lopez Leandro Leonel",
+      "jobTitle": "Desarrollador de Software",
+      "url": "https://",
+      "sameAs": [
+      "https://github.com/L-L-L-user-userLpz",
+      "https://www.linkedin.com/in/leonel-lopez-b4bb3a219/"
+      ]
+    }
+  </script>
+
+  <title data-i18n="title">Desarrollador de Software - Lopez Leandro Leonel: Portafolio Profesional</title>
+  
+  <!-- Preload para fuentes de Font Awesome para iconos -->
+  <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  </noscript>
+  
+  <!-- Preconexión para CDN -->
+  <link rel="preconnect" href="https://cdnjs.cloudflare.com">
+  <link rel="dns-prefetch" href="https://cdnjs.cloudflare.com">
+  
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <a href="#main-content" class="skip-to-content" data-i18n="skip-to-content">Saltar al contenido principal</a>
+  <!-- Contenedor principal -->
+  <div class="page-wrapper">
+    <header>
+      <div class="header-container">
+        <!-- Logo o título -->
+        <div class="logo">
+          <a href="#">López Leandro Leonel</a>
+        </div>
+        
+        <!-- Botón hamburguesa (solo móvil) -->
+        <button class="menu-toggle" id="menu-toggle" aria-label="Abrir menú">☰</button>
+        
+        <!-- Navegación -->
+        <nav class="nav-menu" id="nav-menu">
+          <ul>
+            <li><a href="#about" data-i18n="about_link">Sobre mí</a></li>
+            <li><a href="#projects" data-i18n="projects_heading">Proyectos</a></li>
+            <li><a href="#contact" data-i18n="contact_link">Contacto</a></li>
+          </ul>
+        </nav>
+        
+        <!-- Acciones -->
+        <div class="header-actions">
+          <button id="lang-switch">EN</button>
+          <button id="theme-toggle" data-i18n="theme_dark" aria-label="Cambiar a modo oscuro">🌙</button>
+        </div>
+      </div>
+    </header>
+    
+    <main id="main-content">
+      <!-- Sobre mí -->
+      <section id="about">
+        <h1 data-i18n="about_heading">Sobre mí</h1>
+        <p data-i18n="about_text">
+          Soy un desarrollador de software enfocado en backend, con experiencia en frontend, desarrollo web y UX-UI.
+          Desarrollo tecnologías utilizando diferentes lenguajes de programación, como HTML, CSS, JavaScript, PHP, Python, SQL, Node.js, Dart, Flutter, bases de datos,
+          y herramientas de documentación técnica.
+        </p>
+      </section>
+            
+      <!-- Proyectos -->
+      <section id="projects">
+        <h2 data-i18n="projects_heading">Proyectos</h2>
+        
+        <!-- Filtros -->
+        <div id="project-filters">
+          <details>
+            <summary data-i18n="filter_type">Tipo de proyecto</summary>
+            <button data-i18n="filter_type-value-1" data-filter="category" data-value="1">Web</button>
+            <button data-i18n="filter_type-value-2" data-filter="category" data-value="2">Móvil</button>
+            <button data-i18n="filter_type-value-3" data-filter="category" data-value="3">Particular</button>
+          </details>
+          
+          <details>
+            
+            <summary data-i18n="filter_tech">Tecnología</summary>
+            <button data-filter="tech" data-value="JavaScript">JavaScript</button>
+            <button data-filter="tech" data-value="PHP">PHP</button>
+            <button data-filter="tech" data-value="Python">Python</button>
+            <button data-filter="tech" data-value="Dart">Dart</button>
+            <button data-filter="tech" data-value="SQL">SQL</button>
+          </details>
+          
+          <details>
+            <summary data-i18n="filter_mode">Modalidad</summary>
+            <button data-i18n="filter_mode-value-1" data-filter="mode" data-value="1">Independiente</button>
+            <button data-i18n="filter_mode-value-2" data-filter="mode" data-value="2">Colaboración</button>
+          </details>
+          
+          <!-- Botón limpiar filtros -->
+          <button data-i18n="clear-filters" id="clear-filters" aria-label="Limpiar filtros">Limpiar filtros</button>
+        </div>
+        
+        <!-- Contenedor de proyectos -->
+        <div id="projects-container"></div>
+      </section>
+      
+      <!-- Contacto -->
+      <section id="contact">
+        <h2 data-i18n="contact_heading">Contáctame</h2>
+        <form id="contact-form" action="https://formspree.io/f/mblazqpy" method="POST">
+          <label for="name" data-i18n="contact_name">Nombre</label>
+          <input type="text" id="name" name="name" required placeholder="...">
+          
+          <label for="email" data-i18n="contact_email">Correo</label>
+          <input type="email" id="email" name="email" required placeholder="...">
+          
+          <label for="message" data-i18n="contact_message">Mensaje</label>
+          <textarea id="message" name="message" rows="5" required placeholder="..."></textarea>
+          
+          <button type="submit" data-i18n="contact_send">Enviar</button>
+        </form>
+        <p id="form-status"></p>
+      </section>
+      
+    </main>
+    
+    <!-- ================== FOOTER ================== -->
+    <footer>
+      <div class="footer-container">
+        <!-- 1. Recursos adicionales / Más Información -->
+        <div class="footer-section">
+          <h3 data-i18n="footer_resources">Recursos Adicionales</h3>
+          <ul class="footer-links">
+            <li>
+              <a href="https://github.com/L-L-L-user-userLpz?tab=projects" target="_blank" rel="noopener" data-i18n="footer_projects">
+                <i class="fas fa-code"></i> Más proyectos en GitHub
+              </a>
+            </li>
+            <li>
+                <a href="#" target="_blank" rel="noopener" data-i18n="footer_cv">
+                  <i class="fas fa-file-pdf"></i> Descargar CV
+                </a>
+              </li>
+            </ul>
+          </div>
+          
+          <!-- 2. Contacto directo -->
+          <div class="footer-section">
+            <h3 data-i18n="footer_contact">Comunícate Conmigo</h3>
+            <ul class="footer-links">
+              <li>
+                <a href="mailto:nelly388486@gmail.com" target="_blank" rel="noopener" data-i18n="email_contact">
+                  <i class="fas fa-envelope"></i> Enviar correo
+                </a>
+              </li>
+              <li>
+                <a href="https://wa.me/qr/2JO2ORPWG3VDM1" target="_blank" rel="noopener" data-i18n="whatsapp_contact">
+                  <i class="fab fa-whatsapp"></i> Contactame por WhatsApp
+                </a>
+              </li>
+            </ul>
+          </div>
+          
+          <!-- 3. Redes Sociales -->
+          <div class="footer-section">
+            <h3 data-i18n="footer_socials">Visita Mis Perfiles</h3>
+            <div class="social-links">
+              <a href="https://www.linkedin.com/in/leonel-lopez-b4bb3a219/" target="_blank" rel="noopener" aria-label="LinkedIn">
+                <i class="fab fa-linkedin-in"></i>
+              </a>
+              <a href="https://github.com/L-L-L-user-userLpz" target="_blank" rel="noopener" aria-label="GitHub">
+                <i class="fab fa-github"></i>
+              </a>
+              <a href="https://www.instagram.com/l.l.leonel?utm_source=qr&igsh=cGV0Y2FtaDEwbXh1" target="_blank" rel="noopener" aria-label="Instagram">
+                <i class="fab fa-instagram"></i>
+              </a>
+              <a href="https://youtube.com/@leonellopez7531?si=YBLlQyNmXIxmmByj" target="_blank" rel="noopener" aria-label="YouTube">
+                <i class="fab fa-youtube"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+        
+        <!-- Sección inferior -->
+        <div class="footer-bottom">
+          <p data-i18n="footer_copyright">
+            © 2025 Portafolio Profesional. Todos los derechos reservados.
+          </p>
+        </div>
+      </footer>
+    </div> <!-- cierre de page-wrapper -->
+    
+  <!-- Scripts -->
+  <script src="js/main.js" defer></script>
+</body>
+</html>
+  

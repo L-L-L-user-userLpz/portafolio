@@ -1,0 +1,87 @@
+{
+  "about-title": {
+    "audioFile": "./audios/about-title.mp3",
+    "text": "Sobre mí",
+    "duration": 3
+  },
+  "about-text-1": {
+    "audioFile": "audios/es/about-text-1.mp3",
+    "text": "Soy un desarrollador de software enfocado en backend, con experiencia en frontend, desarrollo web y trabajo en equipo.",
+    "duration": 8
+  },
+  "skills-title": {
+    "audioFile": "audios/es/skills-title.mp3",
+    "text": "Habilidades Técnicas",
+    "duration": 3
+  },
+  "projects-title": {
+    "audioFile": "audios/es/projects-title.mp3",
+    "text": "Proyectos Destacados",
+    "duration": 3
+  },
+  "contact-title": {
+    "audioFile": "audios/es/contact-title.mp3",
+    "text": "Contacto",
+    "duration": 3
+  },
+  "skill-1": {
+    "audioFile": "audios/es/skill-1.mp3",
+    "text": "HTML",
+    "duration": 2
+  },
+  "skill-2": {
+    "audioFile": "audios/es/skill-2.mp3",
+    "text": "CSS",
+    "duration": 2
+  },
+  "skill-3": {
+    "audioFile": "audios/es/skill-3.mp3",
+    "text": "JavaScript",
+    "duration": 2
+  },
+  "skill-4": {
+    "audioFile": "audios/es/skill-4.mp3",
+    "text": "PHP",
+    "duration": 2
+  },
+  "skill-5": {
+    "audioFile": "audios/es/skill-5.mp3",
+    "text": "Python",
+    "duration": 2
+  },
+  "skill-6": {
+    "audioFile": "audios/es/skill-6.mp3",
+    "text": "SQL",
+    "duration": 2
+  },
+  "skill-7": {
+    "audioFile": "audios/es/skill-7.mp3",
+    "text": "Node.js",
+    "duration": 2
+  },
+  "skill-8": {
+    "audioFile": "audios/es/skill-8.mp3",
+    "text": "Flutter",
+    "duration": 2
+  },
+  "project-1": {
+    "audioFile": "audios/es/project-1.mp3",
+    "text": "ITESA - Sitio Web Institucional. Actualización del sitio web institucional del Instituto Técnico de Educación Superior Aeronáutico.",
+    "duration": 10
+  },
+  "project-2": {
+    "audioFile": "audios/es/project-2.mp3",
+    "text": "Juego en JavaScript. Desarrollo de un juego aplicando JavaScript y bases de datos.",
+    "duration": 7
+  },
+  "project-3": {
+    "audioFile": "audios/es/project-3.mp3",
+    "text": "Sistema de Gestión de Librería. Aplicación de escritorio en Python con Tkinter para administrar inventario, ventas y facturación.",
+    "duration": 9
+  },
+  "contact-text": {
+    "audioFile": "audios/es/contact-text.mp3",
+    "text": "¿Interesado en trabajar juntos? No dudes en contactarme a través de este formulario.",
+    "duration": 5
+  }
+}

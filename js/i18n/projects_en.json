@@ -1,0 +1,38 @@
+[
+  {
+    "title": "I.T.E.S.A. - Institutional Website",
+    "description": "Update of the institutional website for the 'Jorge A. Newbery' Higher Technical Aeronautical Education Institute (I.T.E.S.A.). It provides information on technical degree programs, institutional identity, news, and access to the virtual campus. It is part of the educational ecosystem of the province of Chaco and is focused on training in aeronautical and meteorological areas.",
+    "contribution": "Development of the user manual and technical documentation, content structuring, and application of technical writing best practices. The role was performed as part of a team effort.",
+    "media": "./src/imgs/I.T.E.S.A.logo-29-08-2025.png",
+    "tech": ["UX Writing", "Technical Documentation"],
+    "site": "https://iesitesanewbery-cha.infd.edu.ar/sitio/",
+    "demo": "#",
+    "code": "#",
+    "category": "1",
+    "mode": "2"
+  },
+  {
+    "title": " JavaScript Video Game - << Sabiondo >> (Know-It-All)",
+    "description": "It aims to test the users' general and national knowledge, while providing a short but fun experience to enjoy with friends.",
+    "contribution": "Design of a video game using JavaScript and database management, as well as different methodologies for development and teamwork. I served as team leader, in charge of design and database management.",
+    "media": "./src/imgs/portada_sabiondo.png",
+    "tech": ["JavaScript", "SQL", "Node.js"],
+    "site": "#",
+    "demo": "#",
+    "code": "#",
+    "category": "3",
+    "mode": "2"
+  },
+  {
+    "title": "Bookstore Management System - POS Project",
+    "description": "Desktop application in Python with Tkinter to manage inventory, sales, PDF invoicing, and graphical reports. Includes barcode scanning (manual, simulated, or via webcam with OpenCV), sales history, and company customization.",
+    "contribution": "Development of a complete management and point-of-sale system in collaboration with a team of developers, using Python and libraries such as Tkinter, OpenCV, ReportLab, and Matplotlib.",
+    "media": "./src/imgs/Captura de pantalla 2025-09-05 041054.png",
+    "tech": ["Python", "Tkinter", "OpenCV", "ReportLab", "Matplotlib", "Pillow", "NumPy"],
+    "site": "#",
+    "demo": "#",
+    "code": "https://github.com/L-L-L-user-userLpz/sistema-gestion-libreria.git",
+    "category": "3",
+    "mode": "2"
+}
+]

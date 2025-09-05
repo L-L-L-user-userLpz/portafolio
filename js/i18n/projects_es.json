@@ -1,0 +1,38 @@
+[
+  {
+    "title": "I.T.E.S.A. - Sitio Web Institucional",
+    "description": "Actualización del sitio web institucional del Instituto Técnico de Educación Superior Aeronáutico 'Jorge A. Newbery' (I.T.E.S.A.). Provee información sobre carreras técnicas, identidad institucional, noticias y acceso al campus virtual. Forma parte del ecosistema educativo de la provincia del Chaco y está orientado a la formación en áreas aeronáuticas y meteorológicas.",
+    "contribution": "Elaboración del manual de usuario y documentación técnica, estructuración de contenidos y aplicación de buenas prácticas de escritura técnica. El rol fue desempeñado en trabajo en equipo.",
+    "media": "./src/imgs/I.T.E.S.A.logo-29-08-2025.png",
+    "tech": ["UX Writing", "Documentación Técnica"],
+    "site": "https://iesitesanewbery-cha.infd.edu.ar/sitio/",
+    "demo": "#",
+    "code": "#",
+    "category": "1",
+    "mode": "2"
+  },
+  {
+    "title": "Videojuego desarrollado en JavaScript - << Sabiondo >>",
+    "description": "En el se buscar puner a prueba el conocimiento general y nacional de los usuarios, mientras se brinda una esperiencia corta pero dibertida para pasar con amigos.",
+    "contribution": "Diseño de un videojuego aplicando JavaScript y manejo de bases de datos, asi como diferentes metodologias para el desarrollo y trabajo en equipo. Me desempeñé como lider de equipo, encargado del diseño y gestión de la base de datos.",
+    "media": "./src/imgs/portada_sabiondo.png",
+    "tech": ["JavaScript", "SQL", "Node.js"],
+    "site": "#",
+    "demo": "#",
+    "code": "#",
+    "category": "3",
+    "mode": "2"
+  },
+{
+  "title": "Sistema de Gestión de Librería - Proyecto POS",
+  "description": "Aplicación de escritorio en Python con Tkinter para administrar inventario, ventas, facturación en PDF y reportes gráficos. Incluye escaneo de códigos de barras (manual, simulación o cámara web con OpenCV), historial de ventas y personalización de la empresa.",
+  "contribution": "Realización de un sistema completo de gestión y punto de venta en conjunto con un equipo de desarrolladores, utilizando Python y bibliotecas como Tkinter, OpenCV, ReportLab y Matplotlib.",
+  "media": "./src/imgs/Captura de pantalla 2025-09-05 041054.png",
+  "tech": ["Python", "Tkinter", "OpenCV", "ReportLab", "Matplotlib", "Pillow", "NumPy"],
+  "site": "#",
+  "demo": "#",
+  "code": "https://github.com/L-L-L-user-userLpz/sistema-gestion-libreria.git",
+  "category": "3",
+  "mode": "2"
+}
+]
