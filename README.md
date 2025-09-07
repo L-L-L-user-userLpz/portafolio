@@ -1,14 +1,16 @@
 # Portafolio
 
----
-
 ## Descripción
 
 Portafolio personal estático construido con **HTML**, **CSS** y **JavaScript**. Muestra proyectos, información de contacto y se despliega mediante GitHub Pages.
 
+---
+
 ## Demo:
 
 Puedes ver aquí el [Portafolio web](https://l-l-l-user-userlpz.github.io/portafolio/).
+
+---
 
 ## Estructura de directorios
 ```
