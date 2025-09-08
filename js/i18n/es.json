@@ -1,9 +1,9 @@
 {
-  "title": "Desarrollador de Software - Lopez Leandro Leonel: Portafolio Profesional",
+  "title": "Desarrollador de Software - Portafolio de López Leandro",
   "skip-to-content": "Saltar al contenido principal",
   "about_heading": "Sobre mí",
-  "about_text": "Soy un desarrollador de software enfocado en backend, con experiencia en frontend, desarrollo web y UX-UI. Desarrollo tecnologías utilizando diferentes lenguajes de programación, como HTML, CSS, JavaScript, PHP, Python, SQL, Node.js, Dart, Flutter, bases de datos y herramientas de documentación técnica.",
-
+  "about_text": "Soy desarrollador de software especializado en backend, con experiencia en frontend y aplicaciones móviles. Disfruto crear soluciones completas que combinan lógica, bases de datos y experiencias de usuario claras e intuitivas. Trabajo con tecnologías como Python, Node.js, SQL, JavaScript, PHP, Flutter y herramientas de documentación técnica, aplicando buenas prácticas de desarrollo y colaboración en equipo. Mi objetivo es seguir creando soluciones que aporten valor real y mejoren la experiencia de las personas.",
+  
   "projects_heading": "Proyectos",
   "filter_type": "Tipo de proyecto",
   "filter_type-value-1": "Web",
@@ -28,12 +28,13 @@
   "contact_error": "❌ Hubo un error, intenta nuevamente.",
   "contact_network_error": "❌ Error de conexión. Intenta más tarde.",
 
-  "footer_resources": "Recursos Adicionales",
-  "footer_projects": "Más proyectos en GitHub",
+  "footer_resources": "Explora más",
+  "footer_projects": "Ver más proyectos en GitHub",
   "footer_cv": "Descargar CV",
-  "footer_contact": "Comunícate Conmigo",
-  "email_contact": "Encribeme por correo",
-  "whatsapp_contact": "Contactame por WhatsApp",
-  "footer_socials": "Visita Mis Perfiles",
-  "footer_copyright": "© 2025 Portafolio Profesional. Todos los derechos reservados."
+  "footer_contact": "Hablemos",
+  "email_contact": "Escríbeme por correo",
+  "whatsapp_contact": "Contáctame por WhatsApp",
+  "footer_socials": "Conecta conmigo en redes",
+  "footer_copyright": "© 2025 Portafolio de López Leandro."
 }
+
