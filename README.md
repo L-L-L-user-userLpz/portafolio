@@ -99,3 +99,4 @@ Este proyecto (incluyendo código y documentación) está bajo la licencia
 ## Enlaces adicionales
 
 [Manual de Uso](Manual_de_Uso.md)
+[Licencia](LICENSE)
