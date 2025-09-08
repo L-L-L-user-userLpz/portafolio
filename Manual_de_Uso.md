@@ -79,6 +79,8 @@ El footer permite acceder a recursos adicionales y formas de contacto:
 
 Todo el contenido del sitio (texto, imágenes, código) está bajo **CC-BY-NC 4.0:** podés verlo, aprender y compartirlo, pero **no usarlo con fines comerciales**, siempre dándome crédito como autor.
 
+- [ver LICENSE](LICENSE)
+
 ## 7. Contacto para soporte
 
 Si encontrás algún error, tenés dudas o deseas más información, podés escribirme desde el formulario o enviarme un correo.
