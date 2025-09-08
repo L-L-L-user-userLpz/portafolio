@@ -9,16 +9,16 @@ Portafolio de López Leandro *https://github.com/L-L-L-user-userLpz*
 3. [Navegación del sitio](#navegación-del-sitio)
   - 3.1 [Menú principal](#menú-principal)
   - 3.2 [Funcionalidades útiles](#funcionalidades-útiles)
-4. [Pie de página (Footer)](#pie-de-página-(Footer))
+4. [Pie de página (Footer)](#pie-de-página)
 5. [Recomendaciones de uso](#Recomendaciones-de-uso)
 6. [Licencia](#Licencia)
 7. [Contacto para soporte](#contacto-para-soporte)
 
-## Bienvenido
+## 1. Bienvenido
 
 Este sitio fue creado para mostrar mi trabajo como desarrollador de software. Encontrarás información sobre mis habilidades, proyectos en los que trabajé y formas de contactarme si querés charlar, colaborar o simplemente preguntar algo. El sitio está disponible en [Portafolio Web](https://l-l-l-user-userlpz.github.io/portafolio/).
 
-## Qué necesitás para usar el sitio
+## 2. Qué necesitás para usar el sitio
 
 - Un navegador moderno (Chrome, Firefox, Edge, Safari).
 
