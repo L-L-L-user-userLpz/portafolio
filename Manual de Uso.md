@@ -4,15 +4,15 @@ Portafolio de López Leandro *https://github.com/L-L-L-user-userLpz*
 
 ## Tabla de contenido
 
-1. [Introducción](#1._bienvenido)
-2. [Requisitos](#2._qué_necesitás_para_usar_el_sitio)
+1. [Introducción](#bienvenido)
+2. [Requisitos](#qué_necesitás_para_usar_el_sitio)
 3. [Navegación del sitio](#navegación-del-sitio)
   - 3.1 [Menú principal](#menú-principal)
   - 3.2 [Funcionalidades útiles](#funcionalidades-útiles)
 4. [Pie de página (Footer)](#Pie_de_página_(Footer))
-5. [Recomendaciones de uso](#Recomendaciones-de-uso)
+5. [Recomendaciones de uso](#Recomendaciones_de_uso)
 6. [Licencia](#Licencia)
-7. [Contacto para soporte](#Contacto-para-soporte)
+7. [Contacto para soporte](#Contacto_para_soporte)
 
 ## 1. Bienvenido
 
