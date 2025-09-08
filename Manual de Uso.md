@@ -9,7 +9,7 @@ Portafolio de López Leandro *https://github.com/L-L-L-user-userLpz*
 3. [Navegación del sitio](#navegación-del-sitio)
   - 3.1 [Menú principal](#menú-principal)
   - 3.2 [Funcionalidades útiles](#funcionalidades-útiles)
-4. [Pie de página (Footer)](#Pie-de-página-(Footer))
+4. [Pie de página (Footer)](#pie-de-página-(Footer))
 5. [Recomendaciones de uso](#Recomendaciones-de-uso)
 6. [Licencia](#Licencia)
 7. [Contacto para soporte](#contacto-para-soporte)
