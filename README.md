@@ -37,3 +37,20 @@ portafolio/
 - Abre un Pull Request.
 
 ---
+
+## 📜 Licencia
+
+[![Licencia: CC BY-NC 4.0](https://img.shields.io/badge/Licencia-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
+Este proyecto (incluyendo código y documentación) está bajo la licencia 
+[Creative Commons Atribución-NoComercial 4.0 Internacional (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
+
+### ✅ Permite:
+- Consultar, copiar y compartir el código y la documentación.  
+- Remezclar, adaptar y construir a partir del material.  
+
+### ⚠️ Restricciones:
+- **No se permite** el uso con fines comerciales.  
+- **Debes dar crédito** al autor original: *Leandro Lopez*.  
+
+Este proyecto se publica únicamente con fines **educativos** y de **demostración en portafolio**.
