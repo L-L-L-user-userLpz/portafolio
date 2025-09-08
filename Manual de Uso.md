@@ -4,15 +4,15 @@ Portafolio de López Leandro *https://github.com/L-L-L-user-userLpz*
 
 ## Tabla de contenido
 
-1. [Introducción](#bienvenido)
-2. [Requisitos](#qué-necesitás-para-usar-el-sitio)
-3. [Navegación del sitio](#navegación-del-sitio)
-  - 3.1 [Menú principal](#menú-principal)
-  - 3.2 [Funcionalidades útiles](#funcionalidades-útiles)
-4. [Pie de página (Footer)](#pie-de-página)
-5. [Recomendaciones de uso](#Recomendaciones-de-uso)
-6. [Licencia](#Licencia)
-7. [Contacto para soporte](#contacto-para-soporte)
+1. [Introducción](#1-bienvenido)
+2. [Requisitos](#2-qué-necesitás-para-usar-el-sitio)
+3. [Navegación del sitio](#3-navegación-del-sitio)
+  - 3.1 [Menú principal](#3-1-menú-principal)
+  - 3.2 [Funcionalidades útiles](#3-2-funcionalidades-útiles)
+4. [Pie de página (Footer)](#4-pie-de-página-footer)
+5. [Recomendaciones de uso](#5-Recomendaciones-de-uso)
+6. [Licencia](#6-Licencia)
+7. [Contacto para soporte](#7-contacto-para-soporte)
 
 ## 1. Bienvenido
 
@@ -26,9 +26,9 @@ Este sitio fue creado para mostrar mi trabajo como desarrollador de software. En
 
 > No hace falta instalar nada, todo funciona directamente desde tu navegador.
 
-## Navegación del sitio
+## 3. Navegación del sitio
 
-### Menú principal
+### 3.1. Menú principal
 
 En la parte superior vas a ver estas secciones:
 
@@ -51,7 +51,7 @@ En la parte superior vas a ver estas secciones:
 - Mensaje
 - Botón `Enviar`
 
-### Funcionalidades útiles
+### 3.2. Funcionalidades útiles
 
 1) **Filtros de proyectos** Seleccioná lo que te interese y hacé clic en `Limpiar filtros` para volver a la lista completa.
 
@@ -61,7 +61,7 @@ En la parte superior vas a ver estas secciones:
 - ⚠️ Campos obligatorios incompletos
 - ❌ Error de envío o error de conexión
 
-## Pie de página (Footer)
+## 4. Pie de página (Footer)
 
 El footer permite acceder a recursos adicionales y formas de contacto:
 
@@ -70,15 +70,15 @@ El footer permite acceder a recursos adicionales y formas de contacto:
 - **Hablemos** → opciones para contactarme por correo o WhatsApp.
 - **Conecta conmigo en redes** → enlaces a redes y plataformas sociales.
 
-## Recomendaciones de uso
+## 5. Recomendaciones de uso
 
 - Verificar que la conexión a internet esté activa para cargar correctamente todas las imágenes y enlaces.
 - Completar todos los campos del formulario de contacto antes de enviar para evitar errores.
 
-## Licencia
+## 6. Licencia
 
 Todo el contenido del sitio (texto, imágenes, código) está bajo **CC-BY-NC 4.0:** podés verlo, aprender y compartirlo, pero **no usarlo con fines comerciales**, siempre dándome crédito como autor.
 
-## Contacto para soporte
+## 7. Contacto para soporte
 
 Si encontrás algún error, tenés dudas o deseas más información, podés escribirme desde el formulario o enviarme un correo.
