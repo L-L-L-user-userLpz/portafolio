@@ -1049,25 +1049,3 @@ document.addEventListener("DOMContentLoaded", () => {
         }
       }
     });
-
-
-
-
-
-
-
-
-
-
-// Exportar clases para testing (si es necesario)
-if (typeof module !== 'undefined' && module.exports) {
-    module.exports = { 
-        ConfigManager, 
-        I18n, 
-        ThemeManager, 
-        ProjectLoader, 
-        ContactForm, 
-        App 
-    };
-}
-
